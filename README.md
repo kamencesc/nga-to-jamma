@@ -67,28 +67,6 @@ This allows compatibility with cabinets wired for stereo or mono audio.
 
 ----------
 
-## Configuration Jumpers
-
-Jumper
-
-Function
-
-Description
-
-AUDIO
-
-Stereo / Mono
-
-Selects stereo passthrough or mono mix to JAMMA
-
-(optional pads)
-
-Mod points
-
-Through-holes for custom mods or signal rerouting
-
-----------
-
 ## Usage
 
 1.  Connect Neo Geo AES RGB SCART to the board.
