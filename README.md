@@ -25,7 +25,7 @@ Real-world testing and validation may be required.
 -   RGB amplification and buffering using THS7314 / THS7316
 -   Direct controller passthrough via DA-15 connector
 -   Stereo or mono audio routing via jumper configuration
--   Compatible with JAMMA and MVS pinouts
+-   Compatible with JAMMA / MVS pinouts
 -   Optional through-holes for user modifications and expansions
 -   Can be used with a DA-15 cable or hard-wired DA-15 lead
 
