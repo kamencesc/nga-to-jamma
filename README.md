@@ -6,6 +6,10 @@ A passive/active adapter board that allows a **Neo Geo AES (original or AES+)** 
 
 This board is intended for arcade cabinets, superguns, test benches, and JAMMA/MVS setups where you want to use an AES console as a video and control source.
 
+![top of the pcb](top_board.jpg)
+
+![bottom of the pcb](bottom_board.jpg)
+
 ----------
 
 ## Features
