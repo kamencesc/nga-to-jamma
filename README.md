@@ -6,6 +6,12 @@ A passive/active adapter board that allows a **Neo Geo AES (original or AES+)** 
 
 This board is intended for arcade cabinets, superguns, test benches, and JAMMA/MVS setups where you want to use an AES console as a video and control source.
 
+## ⚠️ Warning
+
+Due to the fact that the **AES+** has not been commercially released and I do not own an original **Neo Geo AES** for testing, this board has been designed based on theoretical references and documentation.
+
+Real-world testing and validation may be required.
+
 ![top of the pcb](top_board.jpg)
 
 ![bottom of the pcb](bottom_board.jpg)
@@ -109,14 +115,6 @@ Through-holes for custom mods or signal rerouting
 -   The board includes extra through-holes for optional improvements or signal tapping.
 -   Designed to be simple, serviceable, and mod-friendly.
 -   All video conditioning components are standard and easy to source.
-
-----------
-
-## ⚠️ Warning
-
-Due to the fact that the **AES+** has not been commercially released and I do not own an original **Neo Geo AES** for testing, this board has been designed based on theoretical references and documentation.
-
-Real-world testing and validation may be required.
 
 ----------
 
