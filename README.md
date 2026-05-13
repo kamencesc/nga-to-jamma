@@ -108,6 +108,14 @@ Through-holes for custom mods or signal rerouting
 
 ----------
 
+## ⚠️ Warning
+
+Due to the fact that the **AES+** has not been commercially released and I do not own an original **Neo Geo AES** for testing, this board has been designed based on theoretical references and documentation.
+
+Real-world testing and validation may be required.
+
+----------
+
 ## License
 
 This project is licensed under the **Apache License 2.0**.
